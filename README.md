@@ -2,19 +2,19 @@
 Contains all the helpful cheatsheet from various technologies!
 
 # Table of contents
-1. [Python](#python)
-2. [Shell](#shell)
+1. [Python <img src="https://user-images.githubusercontent.com/30590564/116572548-a66a8f80-a93e-11eb-8729-1bb41a23b2fb.png" width="25" height="25">](#python)
+2. [Shell <img src="https://user-images.githubusercontent.com/30590564/116575936-afa92b80-a941-11eb-8298-ddbcfd96ec96.png" width="25" height="25">](#shell)
 3. [Git](#git)
 
 
-## Python | <img src="https://user-images.githubusercontent.com/30590564/116572548-a66a8f80-a93e-11eb-8729-1bb41a23b2fb.png" width="25" height="25">
+## Python <img src="https://user-images.githubusercontent.com/30590564/116572548-a66a8f80-a93e-11eb-8729-1bb41a23b2fb.png" width="25" height="25">
 ### Virtual Environment
 * `python3 -m venv <venv>` Create new virtual environment
 * `source <venv>/bin/activate` Activate in Mac
 * `<venv>\Scripts\activate.bat` Activate in Windows
 * `deactivate` Deactivate virtual environment
 
-## Shell | <img src="https://user-images.githubusercontent.com/30590564/116575936-afa92b80-a941-11eb-8298-ddbcfd96ec96.png" width="25" height="25">
+## Shell <img src="https://user-images.githubusercontent.com/30590564/116575936-afa92b80-a941-11eb-8298-ddbcfd96ec96.png" width="25" height="25">
 ### File Manipulation
 * `cp <source-path>/<filename.filetype> <target-path>/<filename.filetype>` copies a file from one place to another
 * `cp <filename.filetype> <filename.filetype>` can create a new copy of a file in the same location with a different filename or different file type
